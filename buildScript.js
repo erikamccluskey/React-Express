@@ -1,4 +1,4 @@
-const fs = require('fs')
+const fs = require('s')
 const fse = require('fs-extra')
 const childProcess = require('child_process')
 
